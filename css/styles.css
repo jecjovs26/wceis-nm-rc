@@ -1,0 +1,65 @@
+/*****************TAG SELECTORS*****************/
+a {
+    color: #66bfbf;
+}
+
+body {
+    background-color: #eaf6f6;
+}
+
+hr {
+    border-color: grey;
+    border-width: 5px;
+    border-style: dotted none none none;
+    height: 0px;
+    width: 7%;
+}
+
+h1 {
+    color: #66bfbf;
+}
+
+h2 {
+    color: #66bfbf;
+}
+
+h3 {
+    color: #66bfbf;
+}
+
+/*****************CLASS SELECTORS*****************/
+.Logo {
+    background-color: #62CDFF;
+}
+.Logo:hover {
+    background-color: #fff707;
+}
+.name{
+    text-decoration: none;
+}
+.name:hover{
+    background-color: #fff707;
+    text-decoration: underline;
+}
+.wceis{
+    text-decoration: none;
+}
+.wceis:hover{
+    background-color: #fff707;
+    text-decoration: underline;
+}
+/*****************ID SELECTORS*****************/
+#contact{
+    text-decoration: none; 
+}
+#contact:hover{
+    background-color: #fff707;
+    text-decoration: underline; 
+}
+#personnel{
+    text-decoration: none; 
+}
+#personnel:hover{
+    background-color: #fff707;
+    text-decoration: underline;
+}
